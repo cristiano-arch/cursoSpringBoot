@@ -18,7 +18,7 @@ public enum EstadoPagamento {
 		return cod;
 	}
 
-	public String getdescricao() {
+	public String getDescricao() {
 		return descricao;
 	}
 	
