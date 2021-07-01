@@ -43,7 +43,7 @@ public class ClienteService {
 		UserSS user = UserService.authenticated();
 		
 		if (user == null || !user.hasHole(Perfil.ADMIN) && !id.equals(user.getId())) {
-			throw new AuthorizationException("Acesso Negado");
+			throw new AuthorizationException("Acesso negado");
 		}
 		
 		Optional<Cliente> obj = repo.findById(id);
