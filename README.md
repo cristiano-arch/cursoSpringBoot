@@ -1,5 +1,5 @@
-# Curso SpringBoot - Back end
+### Curso SpringBoot Udemy - [Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB](https://www.udemy.com/course/spring-boot-ionic/)
 
-Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB
+## Professor @acenelio
 
-Udemy - https://www.udemy.com/course/spring-boot-ionic/
+Repositório original - [springboot2-ionic-backend](https://github.com/acenelio/springboot2-ionic-backend)
